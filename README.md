@@ -9,7 +9,6 @@ Transform the Superstore dataset into clear charts that help communicate sales a
 - Matplotlib
 
 ## Dataset
-## Dataset
 
 The project uses `Sample - Superstore.csv`, containing 9,994 records. The dataset is stored in the same folder as `task3_visualization.py`.
 
